@@ -1,0 +1,4 @@
+- Olá meu nome é Natalia Yumi
+-  Meu email de contato é yuminatalia0@gmail.com
+- Estou intere  em aprender a programar novas linguagens
+- estou aprende a prograr recentemente  a  linguagegem  javaScript e scratch
